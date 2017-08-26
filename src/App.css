@@ -1,0 +1,14 @@
+.hotel {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 250px;
+  height: 150px; }
+  .hotel__image {
+    width: 100%; }
+
+.hotel-list {
+  display: flex; }
+
+.header .active {
+  color: aqua; }
